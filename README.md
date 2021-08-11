@@ -1,1 +1,2 @@
 # cubos-academy-psel-ifood
+Esse repositórii se trata das questões realizadas do processo seltivo da Cubos Academy, com questões de lógicas de programação na linguagem javascript, com o intuito de nos avaliar.
